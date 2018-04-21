@@ -17,12 +17,10 @@
 **Link(s) to work**: [Wikipedia Viewer](https://codepen.io/afraff/pen/gzbxOR)
 
 
-### Day 1: June 27, Monday
+### Day 3: April 21, 2018
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Day 3 #100DaysOfCode - Continued my Wikipedia Viewer for @freeCodeCamp today! An array of information comes back when I click search and that is truly a reason to rejoice for me ;-) The following YouTube video filled in some gaps https://www.youtube.com/watch?v=_7zRKUz-G3s
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** It's nice to end on a successful note!
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link(s) to work**: [Wikipedia Viewer](https://codepen.io/afraff/pen/gzbxOR)
