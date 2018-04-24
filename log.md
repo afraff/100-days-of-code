@@ -24,3 +24,12 @@
 **Thoughts** It's nice to end on a successful note!
 
 **Link(s) to work**: [Wikipedia Viewer](https://codepen.io/afraff/pen/gzbxOR)
+
+### Day 4: April 23, 2018
+
+**Today's Progress**: Day 4 #100DaysOfCode - I was able to spend some extra time today coding and the JavaScript is working in my Wikipedia Viewer! The last thing I worked on was getting rid of undefined search results. Took me over an hour to figure out for one teeny line of code- if (data[1][i] === undefined) {break;} - basically if there is nothing in the data, then break out of the for loop and stop populating the results list. Pretty simple but so happy I was able to figure out a solution.
+
+**Thoughts** short term goals- 1) Try to better think like a programmer by being able to explain the problem (understand), plan the problem out, divide it up into manageable chunks, when stuck (debug, research, maybe even restart), and practice. 2)Learn more about jquery and AJAX calls.
+
+**Link(s) to work**: [Wikipedia Viewer](https://codepen.io/afraff/pen/gzbxOR)
+
