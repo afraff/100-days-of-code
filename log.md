@@ -33,3 +33,11 @@
 
 **Link(s) to work**: [Wikipedia Viewer](https://codepen.io/afraff/pen/gzbxOR)
 
+### Day 5: April 24, 2018
+
+**Today's Progress**: Day 5 #100DaysOfCode -Tweaking CSS on the Wikipedia Viewer. It works but just trying to make it look better.
+
+**Thoughts** When should I stop fiddling with a project?
+
+**Link(s) to work**: [Wikipedia Viewer](https://codepen.io/afraff/pen/gzbxOR)
+
