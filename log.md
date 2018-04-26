@@ -51,7 +51,7 @@
 
 ### Day 7: April 26, 2018
 
-**Today's Progress**: Day 6 #100DaysOfCode - Read and did exercises from Eloquent JavaScript by Marijn Haverbeke
+**Today's Progress**: Day 7 #100DaysOfCode - Read and did exercises from Eloquent JavaScript by Marijn Haverbeke
 
 **Thoughts** Hoping all this exposure helps me to get more and more comfortable with JavaScript. There is so much to learn.
 
