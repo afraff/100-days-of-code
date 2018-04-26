@@ -41,3 +41,11 @@
 
 **Link(s) to work**: [Wikipedia Viewer](https://codepen.io/afraff/pen/gzbxOR)
 
+### Day 6: April 25, 2018
+
+**Today's Progress**: Day 6 #100DaysOfCode -Turned in my Wikipedia Viewer! I also skimmed through the front end developer handbook written by Cody Lindley.
+
+**Thoughts** I love how many tools there are out there to learn web development but it's also overwhelming. It's hard to know what to focus on with so many choices. Another thought today, I want to make sure my time is scheduled as such that I can completely be focused on coding, or completely focused on family time, etc.
+
+**Link(s) to work**: [Wikipedia Viewer](https://codepen.io/afraff/pen/gzbxOR)
+
