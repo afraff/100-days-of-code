@@ -57,3 +57,11 @@
 
 **Link(s) to work**: [Eloquent JavaScript](http://eloquentjavascript.net//)
 
+### Days 8-9: April 26, 2018
+
+**Today's Progress**: Days 8-9 #100DaysOfCode - Been a busy weekend full of graduation festivities for a younger brother. Spent lots of time in the car listening to free code camp podcasts and time reading and doing exercises from Eloquent JavaScript by Marijn Haverbeke.
+
+**Thoughts** I've taken a 3 day break from creating anything and I'm ready to create my next free code camp project.
+
+**Link(s) to work**: [Eloquent JavaScript](http://eloquentjavascript.net//)
+
