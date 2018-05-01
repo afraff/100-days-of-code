@@ -57,7 +57,7 @@
 
 **Link(s) to work**: [Eloquent JavaScript](http://eloquentjavascript.net//)
 
-### Days 8-9: April 26, 2018
+### Days 8-9: April 27-28, 2018
 
 **Today's Progress**: Days 8-9 #100DaysOfCode - Been a busy weekend full of graduation festivities for a younger brother. Spent lots of time in the car listening to free code camp podcasts and time reading and doing exercises from Eloquent JavaScript by Marijn Haverbeke.
 
@@ -65,3 +65,10 @@
 
 **Link(s) to work**: [Eloquent JavaScript](http://eloquentjavascript.net//)
 
+### Day 10: April 30, 2018
+
+**Today's Progress**: Day 10 #100DaysOfCode - Started looking and researching the next @freecodecamp project, using the Twitchtv JSON API. I am having a harder time understanding this project but hopefully as I keep organizing it will come together.
+
+**Thoughts** I honestly have no idea how to go about this project. I think I am going to take a step back and take a udemy course for a bit.
+
+**Link(s) to work**: [Twitch JSON API](https://codepen.io/afraff/pen/XqMJQj)
