@@ -72,3 +72,11 @@
 **Thoughts** I honestly have no idea how to go about this project. I think I am going to take a step back and take a udemy course for a bit.
 
 **Link(s) to work**: [Twitch JSON API](https://codepen.io/afraff/pen/XqMJQj)
+
+### Day 11: May 1, 2018
+
+**Today's Progress**: Day 11 #100DaysOfCode - Got lost trying to figure out how to use the Twitchtv JSON API. Spent most of the time researching.
+
+**Thoughts** Bought a udemy course and I am going to take a break to finish it :)
+
+**Link(s) to work**: [Twitch JSON API](https://codepen.io/afraff/pen/XqMJQj)
