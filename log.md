@@ -80,3 +80,19 @@
 **Thoughts** Bought a udemy course and I am going to take a break to finish it :)
 
 **Link(s) to work**: [Twitch JSON API](https://codepen.io/afraff/pen/XqMJQj)
+
+### Day 12: May 2, 2018
+
+**Today's Progress**: Day 12 #100DaysOfCode - Have most of the html set up for @freecodecamp's twitchtv app. Also, finally understand how to get the API to work!
+
+**Thoughts** Feeling accomplished :)
+
+**Link(s) to work**: [Twitch JSON API](https://codepen.io/afraff/pen/XqMJQj)
+
+### Day 13-14: May 3-4, 2018
+
+**Today's Progress**: Day 13-14 #100DaysOfCode - Still working on @freecodecamp's twitchtv app. Currently working on figuring out how to add my API data to a table.
+
+**Thoughts** Feeling accomplished :)
+
+**Link(s) to work**: [Twitch JSON API](https://codepen.io/afraff/pen/XqMJQj)
