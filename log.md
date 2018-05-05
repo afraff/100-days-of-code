@@ -96,3 +96,11 @@
 **Thoughts** Feeling accomplished :)
 
 **Link(s) to work**: [Twitch JSON API](https://codepen.io/afraff/pen/XqMJQj)
+
+### Day 15: May 5, 2018
+
+**Today's Progress**: Day 15 #100DaysOfCode - Have a functioning Twitchtv app that displays users and data. Not quite happy with how it is displaying so I'll be working on that next!
+
+**Thoughts** I am happy I have figured out how to use the API. I hope I can figure out a better way to use and display the data. I know what I want to do in my head, now I just have to work on actually being able to do it.
+
+**Link(s) to work**: [Twitch JSON API](https://codepen.io/afraff/pen/XqMJQj)
