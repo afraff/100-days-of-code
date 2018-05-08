@@ -104,3 +104,11 @@
 **Thoughts** I am happy I have figured out how to use the API. I hope I can figure out a better way to use and display the data. I know what I want to do in my head, now I just have to work on actually being able to do it.
 
 **Link(s) to work**: [Twitch JSON API](https://codepen.io/afraff/pen/XqMJQj)
+
+### Day 16: May 7, 2018
+
+**Today's Progress**: Day 16 #100DaysOfCode - Redid a lot of the javascript code for the @freecodecamp Twitchtv assignment now that it makes more sense to me. 
+
+**Thoughts** For tomorrow, I want to look at formatting in css and maybe seeing if can change the color of row based on whether online or offline.
+
+**Link(s) to work**: [Twitch Streams](https://codepen.io/afraff/pen/MGOmXZ)
