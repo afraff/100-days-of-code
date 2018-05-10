@@ -112,3 +112,11 @@
 **Thoughts** For tomorrow, I want to look at formatting in css and maybe seeing if can change the color of row based on whether online or offline.
 
 **Link(s) to work**: [Twitch Streams](https://codepen.io/afraff/pen/MGOmXZ)
+
+### Day 17-18: May 8-9, 2018
+
+**Today's Progress**: Day 17-18 #100DaysOfCode - Still working on @freecodecamp's twitch api assignment. It all works, just trying to make it look nicer. I feel like my five year old daughter trying to write a sentence :D Definitely learning lots!
+
+**Thoughts** Maybe someday I'll do more than "scribble" on the internet.
+
+**Link(s) to work**: [Twitch Streams](https://codepen.io/afraff/pen/MGOmXZ)
