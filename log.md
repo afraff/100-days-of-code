@@ -120,3 +120,11 @@
 **Thoughts** Maybe someday I'll do more than "scribble" on the internet.
 
 **Link(s) to work**: [Twitch Streams](https://codepen.io/afraff/pen/MGOmXZ)
+
+### Day 19-20: May 10-11, 2018
+
+**Today's Progress**: Day 19-20 #100DaysOfCode - Still working on @freecodecamp's twitch api assignment. Tried to put in a navigation bar but haven't gotten very far with it.
+
+**Thoughts** Might take a step back from this and start the udemy class.
+
+**Link(s) to work**: [Twitch Streams](https://codepen.io/afraff/pen/MGOmXZ)
