@@ -128,3 +128,11 @@
 **Thoughts** Might take a step back from this and start the udemy class.
 
 **Link(s) to work**: [Twitch Streams](https://codepen.io/afraff/pen/MGOmXZ)
+
+### Day 21: May 12, 2018
+
+**Today's Progress**: Day 21 #100DaysOfCode - Taking a break from @freecodecamp's twitch api assignment and started going through Colt Steel's Web Developer Bootcamp course on Udemy. 
+
+**Thoughts** So far it's super simple but I hope it gives me time to think of new solutions and fill in knowledge gaps. Maybe hearing things in a different way will help.
+
+**Link(s) to work**: []()
