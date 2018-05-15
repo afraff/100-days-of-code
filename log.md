@@ -136,3 +136,11 @@
 **Thoughts** So far it's super simple but I hope it gives me time to think of new solutions and fill in knowledge gaps. Maybe hearing things in a different way will help.
 
 **Link(s) to work**: []()
+
+### Day 22: May 14, 2018
+
+**Today's Progress**: Day 22 #100DaysOfCode - Went through some HTML lessons and recreated some HTML.
+
+**Thoughts** Making me realize how much I've learned because it's easy so far!
+
+**Link(s) to work**: [HTML recreations](file:///C:/Users/Amy%20Rafferty/Documents/Amy/Sublime/dogProfile.html)
