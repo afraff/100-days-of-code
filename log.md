@@ -144,3 +144,11 @@
 **Thoughts** Making me realize how much I've learned because it's easy so far!
 
 **Link(s) to work**: [HTML recreations](file:///C:/Users/Amy%20Rafferty/Documents/Amy/Sublime/dogProfile.html)
+
+### Day 23: May 15, 2018
+
+**Today's Progress**: Day 23 #100DaysOfCode - Finished up the HTML section of Colt Steel's Web Developer Bootcamp course on Udemy. Created a registration form. Motivating me to learn more about the backend of development.
+
+**Thoughts** I think I can I think I can.
+
+**Link(s) to work**: []()
