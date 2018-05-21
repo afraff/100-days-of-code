@@ -152,3 +152,12 @@
 **Thoughts** I think I can I think I can.
 
 **Link(s) to work**: []()
+
+### Day 24-28: May 16-21, 2018
+
+**Today's Progress**: Days 24-28 #100DaysOfCode - Finished up the CSS section of Colt Steel's Web Developer Bootcamp course on Udemy. About Halfway through the Bootstrap portion. The gaps in my knowledge are definitely being filled. Makes me want to go back a redo a bunch of projects :-P
+
+**Thoughts** Yay for understanding!
+
+**Link(s) to work**: []()
+
