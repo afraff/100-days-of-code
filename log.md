@@ -161,3 +161,12 @@
 
 **Link(s) to work**: []()
 
+### Day 29: May 22, 2018
+
+**Today's Progress**: Day 29 #100DaysOfCode - Finished up the Bootstrap section of Colt Steel's Web Developer Bootcamp course on Udemy and began the Javascript section. It is helping me to go over things again in a different way.
+
+**Thoughts** I think I can I think I can.
+
+**Link(s) to work**: []()
+
+
