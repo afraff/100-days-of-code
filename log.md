@@ -169,4 +169,13 @@
 
 **Link(s) to work**: []()
 
+### Day 30-31: May 23-24, 2018
+
+**Today's Progress**: Days 30-31 #100DaysOfCode - Working with JavaScript loops in Colt Steel's Web Dev. Bootcamp course on Udemy. Still able to work through things quickly, looking forward to getting to parts of the course that I know less about.
+
+**Thoughts** I can't believe how much I've learned since January. I am picking up this JavaScript language!
+
+**Link(s) to work**: []()
+
+
 
