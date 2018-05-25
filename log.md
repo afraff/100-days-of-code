@@ -177,5 +177,15 @@
 
 **Link(s) to work**: []()
 
+### Day 32: May 25, 2018
+
+**Today's Progress**: Day 32 #100DaysOfCode - Making JavaScript functions in Colt Steel's Web Dev. Bootcamp course on Udemy. 
+ 
+
+**Thoughts** As a stay at home mom, it is so nice to take at least an hour a day to use my brain for something else!
+
+**Link(s) to work**: []()
+
+
 
 
