@@ -186,6 +186,14 @@
 
 **Link(s) to work**: []()
 
+### Day 33: May 28, 2018
+
+**Today's Progress**: Day 33 #100DaysOfCode - Took a few days off on vacation and am back to working with functions with Colt Steele's Udemy course. I still struggled with the factorial function but I think I'm understanding more and more how to think like a programmer. 
+
+**Thoughts** I am thirty today!!!!! So happy to be learning and growing with a new skill.
+
+**Link(s) to work**: []()
+
 
 
 
