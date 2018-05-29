@@ -194,6 +194,14 @@
 
 **Link(s) to work**: []()
 
+### Day 34: May 29, 2018
+
+**Today's Progress**: Day 34 #100DaysOfCode - Arrays and a todo list
+
+**Thoughts** I know I am far away from this, but I'm starting to get excited about someday having a job.
+
+**Link(s) to work**: []()
+
 
 
 
