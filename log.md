@@ -202,6 +202,29 @@
 
 **Link(s) to work**: []()
 
+### Day 35: May 30, 2018
+
+**Today's Progress**: Day 35 #100DaysOfCode - Array Methods
+
+**Thoughts** 
+
+**Link(s) to work**: []()
+
+### Day 36: May 31, 2018
+
+**Today's Progress**: Day 36 #100DaysOfCode - Objects
+
+**Thoughts** I know I am far away from this, but I'm starting to get excited about someday having a job.
+
+**Link(s) to work**: []()
+
+### Day 37: June 1, 2018
+
+**Today's Progress**: Day 37 #100DaysOfCode - DOM Manipulation
+
+**Thoughts** This is the fun part!
+
+**Link(s) to work**: []()
 
 
 
