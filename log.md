@@ -226,5 +226,13 @@
 
 **Link(s) to work**: []()
 
+### Day 38: June 2, 2018
+
+**Today's Progress**: Day 38 #100DaysOfCode - Worked more with DOM manipulation to improve a todo list app and a score keeper app.
+
+**Thoughts** This is the fun part!
+
+**Link(s) to work**: []()
+
 
 
