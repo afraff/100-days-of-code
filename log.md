@@ -242,5 +242,13 @@
 
 **Link(s) to work**: []()
 
+### Day 40: June 5, 2018
+
+**Today's Progress**: Day 40 #100DaysOfCode - Refactored color game app and watched some jquery tutorials.
+
+**Thoughts** 
+
+**Link(s) to work**: []()
+
 
 
