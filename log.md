@@ -234,5 +234,13 @@
 
 **Link(s) to work**: []()
 
+### Day 39: June 4, 2018
+
+**Today's Progress**: Day 39 #100DaysOfCode - Finished up a color game app.
+
+**Thoughts** Getting better at debugging!
+
+**Link(s) to work**: []()
+
 
 
