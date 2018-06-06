@@ -250,5 +250,13 @@
 
 **Link(s) to work**: []()
 
+### Day 41: June 6, 2018
+
+**Today's Progress**: Day 41 #100DaysOfCode - Jquery tutorials
+
+**Thoughts** Does the feeling ever go away of wanting to go back and redo old code?
+
+**Link(s) to work**: []()
+
 
 
