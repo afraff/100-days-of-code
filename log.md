@@ -258,5 +258,13 @@
 
 **Link(s) to work**: []()
 
+### Day 42: June 7, 2018
+
+**Today's Progress**: Day 42 #100DaysOfCode - todo app using jquery
+
+**Thoughts** 
+
+**Link(s) to work**: []()
+
 
 
