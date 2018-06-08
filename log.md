@@ -266,5 +266,13 @@
 
 **Link(s) to work**: []()
 
+### Day 43: June 8, 2018
+
+**Today's Progress**: Day 43 #100DaysOfCode - handy dandy todo app using jquery
+
+**Thoughts** 
+
+**Link(s) to work**: []()
+
 
 
