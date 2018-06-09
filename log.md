@@ -274,5 +274,13 @@
 
 **Link(s) to work**: []()
 
+### Day 44: June 9, 2018
+
+**Today's Progress**: Day 44 #100DaysOfCode - Finished up my twitch app for @freecodecamp!
+
+**Thoughts** can't sign in to freecodecamp. so frustrating!
+
+**Link(s) to work**: []()
+
 
 
