@@ -280,7 +280,7 @@
 
 **Thoughts** can't sign in to freecodecamp. so frustrating!
 
-**Link(s) to work**: [](https://codepen.io/afraff/pen/rKWXPZ?editors=0110)
+**Link(s) to work**: [twitch viewer](https://codepen.io/afraff/pen/rKWXPZ?editors=0110)
 
 ### Day 45: June 11, 2018
 
@@ -295,7 +295,7 @@
 **Today's Progress**: Day 46 #100DaysOfCode - Spent some time reorienting myself with @freecodecamp's new content. Looks like things I desperately need have been added. Excited to continue learning!
 **Thoughts** Excited! :D
 
-**Link(s) to work**: [](https://www.freecodecamp.org/afraff)
+**Link(s) to work**: [free code camp](https://www.freecodecamp.org/afraff)
 
 
 
