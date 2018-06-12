@@ -280,7 +280,23 @@
 
 **Thoughts** can't sign in to freecodecamp. so frustrating!
 
+**Link(s) to work**: [](https://codepen.io/afraff/pen/rKWXPZ?editors=0110)
+
+### Day 45: June 11, 2018
+
+**Today's Progress**: Day 45 #100DaysOfCode - finished up the basic frontend portion of the udemy bootcamp course. Also figured out how to get back into free code camp. I am going to go back and do new content because I desperately need it. I've come a long way since January but this is all brand new to me.
+
+**Thoughts** Escited! :D
+
 **Link(s) to work**: []()
+
+### Day 46: June 12, 2018
+
+**Today's Progress**: Day 46 #100DaysOfCode - 
+**Thoughts** Escited! :D
+
+**Link(s) to work**: []()
+
 
 
 
