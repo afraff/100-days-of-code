@@ -297,11 +297,19 @@
 
 **Link(s) to work**: [free code camp](https://www.freecodecamp.org/afraff)
 
-### Day 47: June 12, 2018
+### Day 47: June 13, 2018
 
 **Today's Progress**: Day 47 #100DaysOfCode - Working through the Applied Accessibility Challenges in @freecodecamp. 
 
 **Thoughts** feeling less motivated today. Hopefully can get back in the groove. 
+
+**Link(s) to work**: [free code camp](https://www.freecodecamp.org/afraff)
+
+### Day 48: June 14, 2018
+
+**Today's Progress**: Day 48 #100DaysOfCode - Got through responsive web design challenges in @freecodecamp. Also trying to catch up on some web dev articles I've been meaning to read. 
+
+**Thoughts** How can I balance being a mom with everything else? 
 
 **Link(s) to work**: [free code camp](https://www.freecodecamp.org/afraff)
 
