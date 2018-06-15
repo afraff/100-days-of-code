@@ -313,6 +313,13 @@
 
 **Link(s) to work**: [free code camp](https://www.freecodecamp.org/afraff)
 
+### Day 49: June 15, 2018
+
+**Today's Progress**: Day 49 #100DaysOfCode - Finished CSS Flexbox challenges in @freeCodeCamp.
+**Thoughts** Excited to apply all this new understanding.
+
+**Link(s) to work**: [free code camp](https://www.freecodecamp.org/afraff)
+
 
 
 
