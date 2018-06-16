@@ -320,6 +320,12 @@
 
 **Link(s) to work**: [free code camp](https://www.freecodecamp.org/afraff)
 
+### Day 50: June 16, 2018
+
+**Today's Progress**: Day 50 #100DaysOfCode - Finished CSS Grid challenges in @freeCodeCamp.
+**Thoughts** CSS grid is awesome sauce.
+
+**Link(s) to work**: [free code camp](https://www.freecodecamp.org/afraff)
 
 
 
