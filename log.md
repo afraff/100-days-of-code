@@ -327,5 +327,12 @@
 
 **Link(s) to work**: [free code camp](https://www.freecodecamp.org/afraff)
 
+### Day 51: June 18, 2018
+
+**Today's Progress**: Day 51 #100DaysOfCode - CSS Flexbox tutorials and updating my tribute page to be responsive and pass the new user stories.
+**Thoughts** Going a lot quicker this time around!
+
+**Link(s) to work**: [tribute page](https://codepen.io/afraff/pen/NzwVaJ?editors=1100)
+
 
 
