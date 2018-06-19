@@ -316,6 +316,7 @@
 ### Day 49: June 15, 2018
 
 **Today's Progress**: Day 49 #100DaysOfCode - Finished CSS Flexbox challenges in @freeCodeCamp.
+
 **Thoughts** Excited to apply all this new understanding.
 
 **Link(s) to work**: [free code camp](https://www.freecodecamp.org/afraff)
@@ -323,6 +324,7 @@
 ### Day 50: June 16, 2018
 
 **Today's Progress**: Day 50 #100DaysOfCode - Finished CSS Grid challenges in @freeCodeCamp.
+
 **Thoughts** CSS grid is awesome sauce.
 
 **Link(s) to work**: [free code camp](https://www.freecodecamp.org/afraff)
@@ -330,7 +332,16 @@
 ### Day 51: June 18, 2018
 
 **Today's Progress**: Day 51 #100DaysOfCode - CSS Flexbox tutorials and updating my tribute page to be responsive and pass the new user stories.
+
 **Thoughts** Going a lot quicker this time around!
+
+**Link(s) to work**: [tribute page](https://codepen.io/afraff/pen/NzwVaJ?editors=1100)
+
+### Day 52: June 19, 2018
+
+**Today's Progress**: Day 52 #100DaysOfCode - CSS Flexbox tutorials and turned in my updated tribute page to @freeCodeCamp!
+
+**Thoughts** Progress is happening
 
 **Link(s) to work**: [tribute page](https://codepen.io/afraff/pen/NzwVaJ?editors=1100)
 
