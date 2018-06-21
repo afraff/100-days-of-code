@@ -353,5 +353,13 @@
 
 **Link(s) to work**: [survey form](https://codepen.io/afraff/pen/BVYbyq/?editors=0100)
 
+### Day 54: June 21, 2018
+
+**Today's Progress**: Day 43 #100DaysOfCode - Finished survey form for @freeCodeCamp! 
+
+**Thoughts** Having fun!
+
+**Link(s) to work**: [survey form](https://codepen.io/afraff/pen/BVYbyq/?editors=0100)
+
 
 
