@@ -345,5 +345,13 @@
 
 **Link(s) to work**: [tribute page](https://codepen.io/afraff/pen/NzwVaJ?editors=1100)
 
+### Day 53: June 20, 2018
+
+**Today's Progress**: Day 53 #100DaysOfCode - Began survey form for @freeCodeCamp. Trying out some of my newly acquired CSS flexbox skills.
+
+**Thoughts** Having fun!
+
+**Link(s) to work**: [survey form](https://codepen.io/afraff/pen/BVYbyq/?editors=0100)
+
 
 
