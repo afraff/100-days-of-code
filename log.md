@@ -355,11 +355,19 @@
 
 ### Day 54: June 21, 2018
 
-**Today's Progress**: Day 43 #100DaysOfCode - Finished survey form for @freeCodeCamp! 
+**Today's Progress**: Day 54 #100DaysOfCode - Finished survey form for @freeCodeCamp! 
 
 **Thoughts** Having fun!
 
 **Link(s) to work**: [survey form](https://codepen.io/afraff/pen/BVYbyq/?editors=0100)
+
+### Day 55: June 22, 2018
+
+**Today's Progress**: Day 55 #100DaysOfCode - CSS grid tutorials.
+
+**Thoughts** We'll see if it's worth it.
+
+**Link(s) to work**: []()
 
 
 
