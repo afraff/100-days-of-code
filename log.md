@@ -369,5 +369,21 @@
 
 **Link(s) to work**: []()
 
+### Day 56: June 23, 2018
+
+**Today's Progress**: Day 56 #100DaysOfCode - CSS grid tutorials.
+
+**Thoughts** Excited to create my product launch page
+
+**Link(s) to work**: []()
+
+### Day 57: June 25, 2018
+
+**Today's Progress**: Day 57 #100DaysOfCode - CSS grid tutorials and started planning a product landing page for @freeCodeCamp.
+
+**Thoughts** Excited to be working with James on one of his product ideas :)
+
+**Link(s) to work**: [Product landing page](https://codepen.io/afraff/pen/oyPXqJ)
+
 
 
