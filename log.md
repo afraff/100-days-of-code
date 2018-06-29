@@ -385,5 +385,21 @@
 
 **Link(s) to work**: [Product landing page](https://codepen.io/afraff/pen/oyPXqJ)
 
+### Day 58-60: June 26-28, 2018
+
+**Today's Progress**: Day 58-60 #100DaysOfCode - completed CSS grid tutorials and continued planning a product landing page with James for @freeCodeCamp.
+
+**Thoughts** Excited to be working with James on one of his product ideas :)
+
+**Link(s) to work**: [Product landing page](https://codepen.io/afraff/pen/oyPXqJ)
+
+### Day 61: June 29, 2018
+
+**Today's Progress**: Day 61 #100DaysOfCode - 
+
+**Thoughts** 
+
+**Link(s) to work**: [Product landing page](https://codepen.io/afraff/pen/oyPXqJ)
+
 
 
