@@ -395,7 +395,15 @@
 
 ### Day 61: June 29, 2018
 
-**Today's Progress**: Day 61 #100DaysOfCode - 
+**Today's Progress**: Day 61 #100DaysOfCode - product landing page
+
+**Thoughts** 
+
+**Link(s) to work**: [Product landing page](https://codepen.io/afraff/pen/oyPXqJ)
+
+### Day 62-63: June 30- July 02, 2018
+
+**Today's Progress**: Day 62-63 #100DaysOfCode - working on a product landing page for @freeCodeCamp. Using one of my husband's business ideas and it's been a lot of fun!
 
 **Thoughts** 
 
