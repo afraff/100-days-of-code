@@ -409,5 +409,13 @@
 
 **Link(s) to work**: [Product landing page](https://codepen.io/afraff/pen/oyPXqJ)
 
+### Day 64: July 03, 2018
+
+**Today's Progress**: Day 64 #100DaysOfCode - Making progress on my product landing page for @freeCodeCamp. I love how I am able to trouble shoot and debug about 100 times faster than when I began learning to code in January!
+
+**Thoughts**
+
+**Link(s) to work**: [Product landing page](https://codepen.io/afraff/pen/oyPXqJ)
+
 
 
