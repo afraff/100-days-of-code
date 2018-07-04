@@ -417,5 +417,13 @@
 
 **Link(s) to work**: [Product landing page](https://codepen.io/afraff/pen/oyPXqJ)
 
+### Day 65: July 04, 2018
+
+**Today's Progress**: Day 65 #100DaysOfCode - Have a working navbar for my @freeCodeCamp product landing page.
+
+**Thoughts** Yay for progress!
+
+**Link(s) to work**: [Product landing page](https://codepen.io/afraff/pen/oyPXqJ)
+
 
 
