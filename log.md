@@ -441,5 +441,21 @@
 
 **Link(s) to work**: [Product landing page](https://codepen.io/afraff/pen/oyPXqJ)
 
+### Day 68: July 07, 2018
+
+**Today's Progress**: Day 68 #100DaysOfCode - finished nav bar
+
+**Thoughts** getting closer...
+
+**Link(s) to work**: [Product landing page](https://codepen.io/afraff/pen/oyPXqJ)
+
+### Day 69: July 09, 2018
+
+**Today's Progress**: Day 69 #100DaysOfCode - put the finishing touches on my product landing page, just need a logo! Started brainstorming for my technical documentation page.
+
+**Thoughts** 
+
+**Link(s) to work**: [Product landing page](https://codepen.io/afraff/pen/oyPXqJ)
+
 
 
