@@ -465,5 +465,15 @@
 
 **Link(s) to work**: [technical documentation page](https://codepen.io/afraff/pen/oMNwLQ)
 
+### Day 72: July 12, 2018
+
+**Today's Progress**: Day 72 #100DaysOfCode - HTML is done on my technical documentation page for @freeCodeCamp. Time for some CSS magic!
+
+**Thoughts** 
+
+**Link(s) to work**: [technical documentation page](https://codepen.io/afraff/pen/oMNwLQ)
+
+
+
 
 
