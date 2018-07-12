@@ -457,5 +457,13 @@
 
 **Link(s) to work**: [Product landing page](https://codepen.io/afraff/pen/oyPXqJ)
 
+### Day 70-71: July 10-11, 2018
+
+**Today's Progress**: Day 70-71 #100DaysOfCode - Began working on a technical documentation page for @freeCodeCamp!
+
+**Thoughts** 
+
+**Link(s) to work**: [technical documentation page](https://codepen.io/afraff/pen/oMNwLQ)
+
 
 
