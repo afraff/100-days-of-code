@@ -481,6 +481,14 @@
 
 **Link(s) to work**: [technical documentation page](https://codepen.io/afraff/pen/oMNwLQ)
 
+### Day 75: July 17, 2018
+
+**Today's Progress**: Day 75 #100DaysOfCode - Take two for my portfolio page. Brainstorming how to go about my portfolio page.
+
+**Thoughts** Hoping I can make a cleaner portfolio and work faster this time around.
+
+**Link(s) to work**: []()
+
 
 
 
