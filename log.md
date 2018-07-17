@@ -473,6 +473,14 @@
 
 **Link(s) to work**: [technical documentation page](https://codepen.io/afraff/pen/oMNwLQ)
 
+### Day 73-74: July 13 & 16, 2018
+
+**Today's Progress**: Day 73-74 #100DaysOfCode - Working on the finishing touches of my technical documentation page.
+
+**Thoughts** 
+
+**Link(s) to work**: [technical documentation page](https://codepen.io/afraff/pen/oMNwLQ)
+
 
 
 
