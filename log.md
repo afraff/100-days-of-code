@@ -489,6 +489,14 @@
 
 **Link(s) to work**: []()
 
+### Day 76-77: July 18-19, 2018
+
+**Today's Progress**: Day 76-77 #100DaysOfCode - Created a portfolio for @freeCodeCamp. Lots of ideas!
+
+**Thoughts** 
+
+**Link(s) to work**: [personal portfolio](https://codepen.io/afraff/pen/pZEzpP?editors=1100)
+
 
 
 
