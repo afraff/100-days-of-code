@@ -505,6 +505,14 @@
 
 **Link(s) to work**: [personal portfolio](https://codepen.io/afraff/pen/pZEzpP?editors=1100)
 
+### Day 79-80: July 23-24, 2018
+
+**Today's Progress**: Day 79-80 #100DaysOfCode - adding media queries to my @freeCodeCamp personal portfolio!
+
+**Thoughts** 
+
+**Link(s) to work**: [personal portfolio](https://codepen.io/afraff/pen/pZEzpP?editors=1100)
+
 
 
 
