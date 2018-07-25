@@ -513,6 +513,14 @@
 
 **Link(s) to work**: [personal portfolio](https://codepen.io/afraff/pen/pZEzpP?editors=1100)
 
+### Day 81: July 25, 2018
+
+**Today's Progress**: Day 81 #100DaysOfCode - created logo for product launch page. trying to fix nav bar.
+
+**Thoughts** 
+
+**Link(s) to work**: [Product landing page](https://codepen.io/afraff/pen/oyPXqJ)
+
 
 
 
