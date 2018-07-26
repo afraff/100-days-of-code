@@ -521,6 +521,15 @@
 
 **Link(s) to work**: [Product landing page](https://codepen.io/afraff/pen/oyPXqJ)
 
+### Day 82: July 26, 2018
+
+**Today's Progress**: Day 82 #100DaysOfCode - turned in my product landing page and technical documentation page for @freeCodeCamp!
+
+**Thoughts** Just need to polish my personal portfolio and then I'll be back to javascript :)
+
+**Link(s) to work**: [Product landing page](https://codepen.io/afraff/pen/oyPXqJ)
+                     [Technical documentation page](https://codepen.io/afraff/pen/oMNwLQ)
+
 
 
 
