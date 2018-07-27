@@ -529,7 +529,15 @@
 
 **Link(s) to work**: [Product landing page](https://codepen.io/afraff/pen/oyPXqJ)
                      [Technical documentation page](https://codepen.io/afraff/pen/oMNwLQ)
+                     
+### Day 83: July 27, 2018
 
+**Today's Progress**: Day 83 #100DaysOfCode - turned in my personal portfolio page for @freeCodeCamp and received my Responsive Web Design Certificate! It's been a long time coming.
+
+**Thoughts** Just need to polish my personal portfolio and then I'll be back to javascript :)
+
+**Link(s) to work**: [personal portfolio](https://codepen.io/afraff/pen/pZEzpP?editors=1100)
+                     
 
 
 
