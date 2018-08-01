@@ -537,6 +537,16 @@
 **Thoughts** Just need to polish my personal portfolio and then I'll be back to javascript :)
 
 **Link(s) to work**: [personal portfolio](https://codepen.io/afraff/pen/pZEzpP?editors=1100)
+
+### Day 84-86: July 30-August 1, 2018
+
+**Today's Progress**: Day 84-86 #100DaysOfCode - javascript lessons in @freeCodeCamp.
+
+**Thoughts** 
+
+**Link(s) to work**: [free code camp](https://www.freecodecamp.org/afraff)
+
+
                      
 
 
