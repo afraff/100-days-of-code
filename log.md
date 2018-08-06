@@ -546,11 +546,19 @@
 
 **Link(s) to work**: [free code camp](https://www.freecodecamp.org/afraff)
 
-### Day 87-88: August 12-3 2018
+### Day 87-89: August 2-4 2018
 
-**Today's Progress**: Day 87-88 #100DaysOfCode - more javascript lessons in @freeCodeCamp.
+**Today's Progress**: Day 87-89 #100DaysOfCode - more javascript lessons in @freeCodeCamp.
 
 **Thoughts** progress is slow. a little frustrated. feel like what is obvious to some is not obvious to me.
+
+**Link(s) to work**: [free code camp](https://www.freecodecamp.org/afraff)
+
+### Day 90: August 6 2018
+
+**Today's Progress**: Day 90 #100DaysOfCode - working through regular expressions exercises on @freeCodeCamp.
+
+**Thoughts** 
 
 **Link(s) to work**: [free code camp](https://www.freecodecamp.org/afraff)
 
