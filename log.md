@@ -562,6 +562,14 @@
 
 **Link(s) to work**: [free code camp](https://www.freecodecamp.org/afraff)
 
+### Day 91: August 7 2018
+
+**Today's Progress**: Day 91 #100DaysOfCode - finished the regular expressions exercises on @freeCodeCamp!
+
+**Thoughts** So many characters and symbols to remember!
+
+**Link(s) to work**: [free code camp](https://www.freecodecamp.org/afraff)
+
 
                      
 
