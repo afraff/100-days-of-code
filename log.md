@@ -570,6 +570,22 @@
 
 **Link(s) to work**: [free code camp](https://www.freecodecamp.org/afraff)
 
+### Day 92-93: August 8-9 2018
+
+**Today's Progress**: Day 92-93 #100DaysOfCode - completed the basic data structures on @freeCodeCamp!
+
+**Thoughts** I'm happy that I am becoming more comfortable with how functions are structured and I am able to create them on my own.
+
+**Link(s) to work**: [free code camp](https://www.freecodecamp.org/afraff)
+
+### Day 94: August 10 2018
+
+**Today's Progress**: Day 94 #100DaysOfCode - watched a tutorial on how to code the classic game Snake using javascript. Tutorial done by Christopher Okhravi.
+
+**Thoughts** Fun to take a break and look at something cool you can do with Javascript.
+
+**Link(s) to work**: [free code camp](https://www.freecodecamp.org/afraff)
+
 
                      
 
