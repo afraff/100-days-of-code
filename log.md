@@ -586,6 +586,25 @@
 
 **Link(s) to work**: [free code camp](https://www.freecodecamp.org/afraff)
 
+### Day 95: August 11 2018
+
+**Today's Progress**: Day 95 #100DaysOfCode - Basic algorithm Scripting problems in @freeCodeCamp.
+
+**Thoughts** I am able to figure out problems quicker now :)
+
+**Link(s) to work**: [free code camp](https://www.freecodecamp.org/afraff)
+
+### Day 96: August 13 2018
+
+**Today's Progress**: Day 96 #100DaysOfCode - Basic algorithm Scripting problems in @freeCodeCamp.
+
+**Thoughts** 
+
+**Link(s) to work**: [free code camp](https://www.freecodecamp.org/afraff)
+
+
+
+
 
                      
 
