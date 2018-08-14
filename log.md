@@ -602,6 +602,15 @@
 
 **Link(s) to work**: [free code camp](https://www.freecodecamp.org/afraff)
 
+### Day 97: August 14 2018
+
+**Today's Progress**: Day 97 #100DaysOfCode - object oriented programming problems in @freeCodeCamp.
+
+**Thoughts** 
+
+**Link(s) to work**: [free code camp](https://www.freecodecamp.org/afraff)
+
+
 
 
 
