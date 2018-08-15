@@ -610,6 +610,14 @@
 
 **Link(s) to work**: [free code camp](https://www.freecodecamp.org/afraff)
 
+### Day 98: August 15 2018
+
+**Today's Progress**: Day 98 #100DaysOfCode - functional programming problems in @freeCodeCamp.
+
+**Thoughts** Feeling distracted today!
+
+**Link(s) to work**: [free code camp](https://www.freecodecamp.org/afraff)
+
 
 
 
