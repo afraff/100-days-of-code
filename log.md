@@ -618,6 +618,14 @@
 
 **Link(s) to work**: [free code camp](https://www.freecodecamp.org/afraff)
 
+### Day 99: August 16 2018
+
+**Today's Progress**: Day 99 #100DaysOfCode - functional programming problems in @freeCodeCamp. Learned more about the map and filter functions.
+
+**Thoughts** I don't feel like I completely understand these concepts yet but hopefully if I keep practicing and trying, it will happen.
+
+**Link(s) to work**: [free code camp](https://www.freecodecamp.org/afraff)
+
 
 
 
