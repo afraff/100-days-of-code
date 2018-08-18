@@ -626,6 +626,14 @@
 
 **Link(s) to work**: [free code camp](https://www.freecodecamp.org/afraff)
 
+### Day 100: August 17 2018
+
+**Today's Progress**: Day 100 #100DaysOfCode - Made it to day 100! Intermediate algorithm scripting in @freeCodeCamp- figured out how to sum all numbers in a range but made it way to complicated :) Still learning how to keep it simple.
+
+**Thoughts** I made it! Time to keep on coding ;)
+
+**Link(s) to work**: [free code camp](https://www.freecodecamp.org/afraff)
+
 
 
 
